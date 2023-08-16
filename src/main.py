@@ -24,7 +24,5 @@ def main(argv: list[str]):
   # scale data
   scaleData("input.csv")
 
-  
-
 if __name__ == "__main__":
   main(argv[1:])
